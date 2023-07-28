@@ -36,7 +36,7 @@ export default function Layout({ children }) {
         <script type="text/javascript" src="https://cdn.rawgit.com/watson-developer-cloud/watson-developer-cloud.github.io/master/analytics.js" />
 		
  <div style={{color:"#FFFFFF",fontSize:"11px",fontWeight:"bold",padding:"15px",backgroundColor:"#001f4e"}}>
-  <div style={{textAlign:"center",padding:"0",margin:"0",maxWidth:"100%"}}> &copy; Copyright 1990 - 2022 A Word Away, Inc.® is a registered trademark </div>
+  <div style={{textAlign:"center",padding:"0",margin:"0",maxWidth:"100%"}}> &copy; Copyright 1990 - 2023 A Word Away, Inc.® is a registered trademark </div>
 </div> 		
 		
       </body>
