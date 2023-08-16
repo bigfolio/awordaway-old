@@ -460,7 +460,7 @@ export class Demo extends Component {
             </p>
           </div>
         </div>
-
+<!--
         <div className="new_demo_notification">
           <Alert type="info" color="blue">
             {NEW_DEMO_NOTIFICATION}
@@ -469,6 +469,7 @@ export class Demo extends Component {
             </a>
           </Alert>
         </div>
+  -->
 
         <h2 className="base--h2">Transcribe Audio</h2>
 
