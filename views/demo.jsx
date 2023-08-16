@@ -460,16 +460,7 @@ export class Demo extends Component {
             </p>
           </div>
         </div>
-<!--
-        <div className="new_demo_notification">
-          <Alert type="info" color="blue">
-            {NEW_DEMO_NOTIFICATION}
-            <a href="https://www.ibm.com/demos/live/speech-to-text/self-service/home" target="blank">
-              here.
-            </a>
-          </Alert>
-        </div>
-  -->
+
 
         <h2 className="base--h2">Transcribe Audio</h2>
 
